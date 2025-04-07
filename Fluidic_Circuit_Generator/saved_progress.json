@@ -1,0 +1,74 @@
+{
+  "Objects": {
+    "free_end_pointer": [
+      [
+        0.0,
+        0.0,
+        20.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        9.0,
+        9.0,
+        9.0
+      ],
+      [
+        true,
+        "C:\\Users\\skendr02\\AppData\\Roaming\\Blender Foundation\\Blender\\3.2\\scripts\\addons\\fluid_circuit_generator/Val_Library/free_end_pointer.stl",
+        ""
+      ]
+    ],
+    "free_end_pointer.001": [
+      [
+        0.0,
+        30.0,
+        20.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        9.0,
+        9.0,
+        9.0
+      ],
+      [
+        true,
+        "C:\\Users\\skendr02\\AppData\\Roaming\\Blender Foundation\\Blender\\3.2\\scripts\\addons\\fluid_circuit_generator/Val_Library/free_end_pointer.stl",
+        ""
+      ]
+    ]
+  },
+  "Connection": {
+    "Name List": [
+      "start_gate_",
+      "end_gate_"
+    ],
+    "0": [
+      "free_end_pointer.001",
+      "null"
+    ],
+    "1": [
+      "free_end_pointer",
+      "null"
+    ]
+  },
+  "Pipe": {
+    "pipe_inner_radius": 1.600000023841858,
+    "pipe_thickness": 1.600000023841858,
+    "tip_length": 0.5,
+    "unit_dimention": 5,
+    "add_stage": false,
+    "stage_height": 0.5,
+    "stage_rim_size": 5.0,
+    "add_custom_tip": false,
+    "tip_offset": 3.0,
+    "tip_stl_path": "C:\\Users\\skendr02\\AppData\\Roaming\\Blender Foundation\\Blender\\3.2\\scripts\\addons\\fluid_circuit_generator/Val_Library/press_fit_tip.stl"
+  }
+}
