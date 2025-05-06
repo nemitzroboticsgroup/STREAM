@@ -3,14 +3,10 @@
 # STREAM: A software tool to auto-generate fluidic routing
 
 
-This project is a Blender addon tool designed to help create Fluidic Networks.
+This project is a Blender add-on tool designed to help create Fluidic Networks.
 
 The software is intended to be part of a workflow for fabricating macro-fluidic circuits. Instead of manually wiring logic components, designers can input their designs into the software to generate a 3D printable fluidic network model. Logic components can be placed onto the network to form a functional fluidic circuit, as shown below.
 
-A video tutorial for using the software can be found
-[HERE](https://youtu.be/gbxtxueENJk).
-
-![](pictures/process.png)
 
 ## Requirements
 
